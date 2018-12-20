@@ -1,0 +1,16 @@
+[http-nio-8080-exec-1] INFO  com.example.app.controller.IndexController  - [GET] solicitando saludo inicial...
+[http-nio-8080-exec-4] INFO  com.example.app.controller.PersonaRestController  - [GET - PERSONA] Solicitando persona...
+[http-nio-8080-exec-2] INFO  com.example.app.controller.ApiRestController  - [GET search-in-doc] Buscando documento de id:123123123
+[http-nio-8080-exec-2] INFO  com.example.app.service.imple.GoogleServiceImpl  - [GoogleService] Buscando docuemnto por id:123123123
+[http-nio-8080-exec-4] INFO  com.example.app.controller.ApiRestController  - [GET search-in-doc] Buscando documento de id:123123123
+[http-nio-8080-exec-4] INFO  com.example.app.service.imple.GoogleServiceImpl  - [GoogleService] Buscando docuemnto por id:123123123
+[http-nio-8080-exec-5] INFO  com.example.app.controller.ApiRestController  - [GET search-in-doc] Buscando documento de id:1231231232334243
+[http-nio-8080-exec-5] INFO  com.example.app.service.imple.GoogleServiceImpl  - [GoogleService] Buscando docuemnto por id:1231231232334243
+[http-nio-8080-exec-8] INFO  com.example.app.controller.ApiRestController  - [GET search-in-doc] Buscando documento de id:12312
+[http-nio-8080-exec-8] INFO  com.example.app.service.imple.GoogleServiceImpl  - [GoogleService] Buscando docuemnto por id:12312
+[http-nio-8080-exec-6] INFO  com.example.app.controller.ApiRestController  - [GET search-in-doc] Buscando documento de id:1231243242343242324
+[http-nio-8080-exec-6] INFO  com.example.app.service.imple.GoogleServiceImpl  - [GoogleService] Buscando docuemnto por id:1231243242343242324
+[http-nio-8080-exec-1] INFO  com.example.app.controller.IndexController  - [INDEX] solicitando saludo inicial...
+[http-nio-8080-exec-3] INFO  com.example.app.controller.IndexController  - [INDEX] solicitando saludo inicial...
+[http-nio-8080-exec-1] INFO  com.example.app.controller.ApiRestController  - [GET search-in-doc] Buscando documento de id:123123123
+[http-nio-8080-exec-1] INFO  com.example.app.service.imple.GoogleServiceImpl  - [GoogleService] - A punto de consumir la api... 
